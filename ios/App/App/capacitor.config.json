@@ -1,0 +1,8 @@
+{
+  "appId": "com.bgeneral.bgx.bancadigital",
+  "appName": "CapApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
